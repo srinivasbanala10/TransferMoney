@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: transfer
+Bundle-SymbolicName: transfer
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-16
+Automatic-Module-Name: transfer
+Export-Package: com.money.transfer,
+ com.money.transfer.api,
+ com.money.transfer.config,
+ com.money.transfer.controller,
+ com.money.transfer.exceptions,
+ com.money.transfer.integration,
+ com.money.transfer.model,
+ com.money.transfer.repository,
+ com.money.transfer.service,
+ com.money.transfer.utils

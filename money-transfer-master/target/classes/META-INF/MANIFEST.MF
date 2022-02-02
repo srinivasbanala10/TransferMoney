@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: srbanala
+Build-Jdk: 17
+Implementation-Title: transfer
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.money
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/transfer
+Created-By: Maven Integration for Eclipse
+
